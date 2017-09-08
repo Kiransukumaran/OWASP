@@ -1,0 +1,12 @@
+1)Insecure data storage
+adb.exe devices
+adb logcat
+//here data are stored to the log.
+
+
+creating jar
+f:\dex2jar-2.0\dex2jar-2.0>d2j-dex2jar.bat diva-beta.apk
+
+
+setting java path
+set PATH=C:\Program Files (x86)\Java\jre1.8.0_144\bin
